@@ -1,3 +1,5 @@
+//color_for_compare_widget.dart
+
 import '/flutter_flow/flutter_flow_theme.dart';
 import 'package:flutter/material.dart';
 
